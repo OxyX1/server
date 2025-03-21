@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "install": "pip install Flask",
+        "start": "python host.py"
+    }
+}
