@@ -1,5 +1,0 @@
-{
-    "scripts": {
-        "install": "pip install sqlite "
-    }
-}
